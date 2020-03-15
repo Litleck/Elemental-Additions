@@ -1,0 +1,8 @@
+{
+  "type": "material",
+  "name": "Iron",
+  "description": "A normal resource. Comes from the ground, can be used to create steel.",
+  "color": "#8A5010",
+  "hardness": 3,
+  "cost": 2
+}
