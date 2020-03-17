@@ -1,0 +1,7 @@
+{
+  "type": "OreBlock",
+  "itemDrop": "chromium",
+  "oreDefault": true,
+  "oreScale": 25.27,
+  "oreThreshold": 0.853
+}
