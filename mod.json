@@ -1,8 +1,8 @@
 {
-  "name": "Elements",
-  "displayName": "Elements",
+  "name": "Elemental Additions",
+  "displayName": "Elemental Additions",
   "author": "litleck",
-  "description": "A base for other mods.",
+  "description": "A base for other mods. Adds several new ores and items.",
   "version": 1.0,
   "minGameVersion": 100.3
 }
