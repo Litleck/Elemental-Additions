@@ -6,7 +6,7 @@ The purpose of Elemental Additions is to serve as a base for other mods to build
 * Mindustry build 104.5 or newer
 
 ## Mods
-* [MindustrialHell by kel5isgod](https://github.com/kel5isgod/MindustrialHell)
+* [Mindustrial Hell by kel5isgod](https://github.com/kel5isgod/MindustrialHell)
 
 ## Installation
 
